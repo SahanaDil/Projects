@@ -14,3 +14,6 @@ My ML Projects
 <br>
 <a href="https://github.com/SahanaDil/Projects/tree/main/02Clustering%20Antartic%20Penguin%20Species%20-Project" target="_blank" rel="noopener noreferrer">Clustering Antartic Penguin Species</a>
 <br>
+<a href="https://github.com/SahanaDil/Projects/tree/main/06Extracting%20TV%20Data%20Insights" target="_blank" rel="noopener noreferrer">Extracting TV Data Insights</a>
+<br>
+
