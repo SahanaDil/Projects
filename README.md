@@ -20,3 +20,5 @@ My ML Projects
 <br>
 <a href="https://github.com/SahanaDil/Projects/blob/main/Facial_Expression_Recognition_with_PyTorch.ipynb" target="_blank" rel="noopener noreferrer">Facial Expression Recognition</a>
 <br>
+<a href="https://github.com/SahanaDil/Diabetes-and-Heart-Disease-Detection" target="_blank" rel="noopener noreferrer">Diabetes / Heart Disease Detection using ML</a>
+<br>
